@@ -1,14 +1,14 @@
 # Education Python Basic Book:heart_eyes_cat:
-1. Introduction
+## 1. Introduction
   - Python 기본 프로그램밍 내용 정리
 
-2. Developer Environment
+## 2. Developer Environment
   - Language :Python 3.7
   - IDE Tool : JuptherNotebook
 
 
 
-3. Contents
+## 3. Contents
   - Chapter 01. 주피터 노트북 사용법
   - Chapter 02-1. 변수의 이해 및 기본 데이터 타입
   - Chapter 02-2. 문자열 타입의 이해
