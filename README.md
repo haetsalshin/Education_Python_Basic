@@ -1,4 +1,4 @@
-# Education Python Basic Book:heart_eyes:
+# Education Python Basic Book:heart_eyes_dog:
 1. Introduction
   - Python 기본 프로그램밍 내용 정리
 
