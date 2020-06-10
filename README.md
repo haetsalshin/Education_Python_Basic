@@ -25,7 +25,7 @@ Python 프로그래밍 언어 입문자를 위한 기본 내용
   - [Chapter 05. 모듈의 이해 및 모듈 import방법](#acknowledgments)
   - [Chapter 06. 클래스와 객체의 이해](#acknowledgments)
   - [Chapter 07. 정규표현식과 re모듈](#acknowledgments)
-  - Chapter 08. 예외처리](#acknowledgments)
+  - [Chapter 08. 예외처리](#acknowledgments)
   
   
 ## Getting Started
